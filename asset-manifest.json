@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/raincoat98/movie_app_cc/static/css/main.bc0d0c08.chunk.css",
+    "main.js": "/raincoat98/movie_app_cc/static/js/main.2abb6e1c.chunk.js",
+    "main.js.map": "/raincoat98/movie_app_cc/static/js/main.2abb6e1c.chunk.js.map",
+    "runtime-main.js": "/raincoat98/movie_app_cc/static/js/runtime-main.e9294735.js",
+    "runtime-main.js.map": "/raincoat98/movie_app_cc/static/js/runtime-main.e9294735.js.map",
+    "static/js/2.915f2cb3.chunk.js": "/raincoat98/movie_app_cc/static/js/2.915f2cb3.chunk.js",
+    "static/js/2.915f2cb3.chunk.js.map": "/raincoat98/movie_app_cc/static/js/2.915f2cb3.chunk.js.map",
+    "index.html": "/raincoat98/movie_app_cc/index.html",
+    "static/css/main.bc0d0c08.chunk.css.map": "/raincoat98/movie_app_cc/static/css/main.bc0d0c08.chunk.css.map",
+    "static/js/2.915f2cb3.chunk.js.LICENSE.txt": "/raincoat98/movie_app_cc/static/js/2.915f2cb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9294735.js",
+    "static/js/2.915f2cb3.chunk.js",
+    "static/css/main.bc0d0c08.chunk.css",
+    "static/js/main.2abb6e1c.chunk.js"
+  ]
+}
